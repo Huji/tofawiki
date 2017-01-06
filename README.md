@@ -1,5 +1,5 @@
-# Tofawiki
-It's source of the tofawiki service at tofawiki.wmflabs.org
+# tofawiki
+`tofawiki` is a service currently available at tofawiki.wmflabs.org which helps users more conveniently translate articles from English Wikipedia into Persian and save them in Persian Wikipedia (a.k.a. Wikifa).
 
 
 ## Server
